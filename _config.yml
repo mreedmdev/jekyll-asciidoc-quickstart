@@ -1,5 +1,5 @@
-title: Jekyll AsciiDoc Quickstart
-description: The Jekyll AsciiDoc Quickstart project is a leg-up in starting your own website hosted on GitHub with content based in AsciiDoc.
+title: Just Another Developer's Blog
+description: Blogging about all things related to developing from home or in the office.
 exclude:
   - LICENSE.adoc
   - README.adoc
